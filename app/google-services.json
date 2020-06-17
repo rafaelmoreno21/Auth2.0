@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "488689748173",
+    "firebase_url": "https://login-regis-6cf10.firebaseio.com",
+    "project_id": "login-regis-6cf10",
+    "storage_bucket": "login-regis-6cf10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488689748173:android:aab541d6c5909a0c214184",
+        "android_client_info": {
+          "package_name": "com.test.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488689748173-g0hvja387tnbe8kev6e0uduuhdq6lj30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCypSxNpwthaOrdP_Qm7cqmku8ggTWkZoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488689748173-g0hvja387tnbe8kev6e0uduuhdq6lj30.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
