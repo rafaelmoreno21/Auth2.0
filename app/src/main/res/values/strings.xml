@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Auth</string>
+    <string name="api_key">developer.marvel.com</string>
+
 </resources>
